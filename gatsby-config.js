@@ -14,7 +14,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
-    `gatsby-remark-code-titles`
+    `gatsby-remark-code-titles`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
