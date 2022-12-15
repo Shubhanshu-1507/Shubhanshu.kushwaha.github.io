@@ -14,11 +14,12 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
+    `gatsby-remark-code-titles`
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Yashita Namdeo',
-        short_name: 'Yashita Namdeo',
+        name: 'Shubhanshu Kushwaha',
+        short_name: 'Shubhanshu Kushwaha',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
