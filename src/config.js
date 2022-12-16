@@ -1,34 +1,34 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Shubhanshu Kushwaha',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Shubhanshu Kushwaha is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Shubhanshu Kushwaha, Shubhanshu, Kushwaha, shubhanshukushwaha, software engineer, web developer, react, javascript, python, c++/c, Jabalpur, (M.P,IN).
+  siteUrl: 'https://github.com/Shubhanshu-1507/Shubhanshu.kushwaha.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
-  twitterHandle: '@',
+  name: 'Shubhanshu Kushwaha',
+  location: 'Jabalpur, India',
+  email: 'shubhanshukushwaha2050@gmail.com',
+  github: 'https://github.com/Shubhanshu-1507/',
+  twitterHandle: '@shubhanshukus15',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/Shubhanshu-1507/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/shubhanshu-kushwaha/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: 'https://codepen.io/shubhanshu-1507',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/Shubhanshu15_',
     },
     {
       name: 'Twitter',
